@@ -23,8 +23,8 @@ give you many belly wubs.”*
 
 ***What Kind of Pet am I looking for?***
 |**Preferences**|**Response**|
-|-------|-------|--------|
-|**Type**|Dog            
+|---------------|------------|
+|**Type**|Dog|           
 |**Age**|Puppy|
 |**Breed**|Any|
 |**Size**|Any|
