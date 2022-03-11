@@ -22,12 +22,12 @@ give you many belly wubs.”*
 
 
 ***What Kind of Pet am I looking for?***
-|**Preferences**                          |**Response**                         |
-|----------------|-------------------------------|-----------------------------|
+|**Preferences**|**Response**|
+|-------|-------|--------|
 |**Type**|Dog            
-|**Age**        |Puppy|
-|**Breed**          |Any|
-|**Size**          |Any|
+|**Age**|Puppy|
+|**Breed**|Any|
+|**Size**|Any|
 
 ***How many pets am I looking for?*** 
 >  *“I would like to adopt one puppy.”* 
