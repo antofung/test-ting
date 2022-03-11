@@ -19,3 +19,18 @@ park, meet other doggos together. I’ll give you lots of tweats and let you sle
 in hooman bed wight next to me every night. I’ll buy you lots of sqeeky toys and
 give you many belly wubs.”*
 >
+
+
+***What Kind of Pet am I looking for?***
+|**Preferences**                          |**Response**                         |
+|----------------|-------------------------------|-----------------------------|
+|**Type**|Dog            
+|**Age**        |Puppy|
+|**Breed**          |Any|
+|**Size**          |Any|
+
+***How many pets am I looking for?*** 
+>  *“I would like to adopt one puppy.”* 
+
+***Do I have any other pets, or have I had any other pets?*** 
+>  *“I grew up with a pet dog.”*
