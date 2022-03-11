@@ -1,4 +1,4 @@
-Introduction
+## Introduction
 Looking to be matched with the paw-fect companion or an easy way to meet your new best
 friend. PetMatch offers a quick and convenient way to bring together pet and owner
 without spending weeks or months on searching for the paw-fect match. PetMatch matches
